@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedSneaker", "SpeedSneaker\SpeedSneaker.csproj", "{5C330A14-0C93-450A-9BA5-4813D9154FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C330A14-0C93-450A-9BA5-4813D9154FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C330A14-0C93-450A-9BA5-4813D9154FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C330A14-0C93-450A-9BA5-4813D9154FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C330A14-0C93-450A-9BA5-4813D9154FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3697A43-41F7-4E49-9B7F-8DAA25856024}
+	EndGlobalSection
+EndGlobal
